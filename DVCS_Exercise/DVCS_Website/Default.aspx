@@ -28,12 +28,12 @@
             </p>
         </div>
         <div class="col-md-4">
-            <h2>Web Hosting</h2>
+            <h2>Course Calendar</h2>
             <p>
-                You can easily find a web hosting company that offers the right mix of features and price for your applications.
+                You can carefully plan ahead for this course by viewing the course calendar.
             </p>
             <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
+                <a class="btn btn-default" href="http://dmit-2018.github.io/courseOffering">View &raquo;</a>
             </p>
         </div>
     </div>
